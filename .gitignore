@@ -1,0 +1,7 @@
+venv/
+data/raw/
+*.ipynb_checkpoints
+__pycache__/
+venv_social_media/
+.DS_Store
+*.pyc
